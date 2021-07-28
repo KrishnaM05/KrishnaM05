@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**KrishnaM05/KrishnaM05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... document level detection model
 - 🌱 I’m currently learning ... adverserial networks
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Likedin Profile](https://www.linkedin.com/in/krishna-mishra-64813b131/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
